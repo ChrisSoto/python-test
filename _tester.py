@@ -6,5 +6,9 @@ def check_question(num: str, arg: any):
     else:
       print("Incorrect!")
   elif num == '2':
-    print(False)
+    if arg == 'C':
+      message = 'Correct! The modulo operator gets the remainder!'
+      print(message)
+    else:
+      print("Incorrect!")
   

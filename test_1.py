@@ -64,7 +64,7 @@ def adding_two_numbers_test(x, y):
 # C) gives the remainder of division
 
 # write a test function that will test each of these
-# this is going to be kinda difficult but it's important to understand how to test
+# this is going to be kinda difficult but it's important to understand how to testd
 
 def modulo_divides_test(x, y):
   # what would the result be if 10 % 5?
@@ -88,3 +88,10 @@ def modulo_adds_and_makes_percent_test(x, y):
 
 def modulo_gets_the_remainder(x, y):
   print()
+
+
+#
+#
+# test.check_question("2", ???)
+#
+#
